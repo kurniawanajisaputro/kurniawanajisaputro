@@ -1,6 +1,6 @@
 ![MasterHead](https://static.wixstatic.com/media/54c3a8_20a3ad451dd940e3a8388b2fd47c6b57~mv2.gif)
 <h1 align="center">Hi 👋, I'm Kurniawan Adji Saputro</h1>
-<h3 align="center">A passionate QA Automation From Indonesia</h3>
+<h2 align="center">A passionate QA Automation From Indonesia</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Selenium Webdriver, Java, TestNG, Cucumber and Gherkin**
